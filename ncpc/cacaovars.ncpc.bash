@@ -34,6 +34,7 @@ export CACAO_WFSSTREAM="camlowfs"
 # Manages mutipe DM channels
 #
 export CACAO_FPSPROC_DMCH2DISP="ON"
+export CACAO_FPSPROC_DMCOMB="ON"
 
 # Measure hardware latency
 #
